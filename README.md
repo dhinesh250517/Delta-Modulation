@@ -1,10 +1,10 @@
-Aim:
+# Aim:
 To perform Delta-Modulation using python
 
-Tools required:
+# Tools required:
 python IDE with Numpy and Scipy.
 
-Program:
+# Program:
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -72,10 +72,10 @@ plt.grid()
 plt.tight_layout()
 plt.show()
 ```
-Output Waveform:
+# Output Waveform:
 ![image](https://github.com/user-attachments/assets/29a1e3b5-d922-4d99-bf22-51785388108b)
 
 
 
-Results:
+# Results:
 THUS THE DELTA MODULATION SIGNAL IS PERFORMED USING PHYTON
